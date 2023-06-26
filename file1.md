@@ -7,4 +7,5 @@ SSSSS
 =======
 ###Izuzaem new textowie redaktori nano, gedit, vi
 Laba6
+Privet
 >>>>>>> SolonenkoDS_two
