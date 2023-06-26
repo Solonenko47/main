@@ -8,4 +8,5 @@ SSSSS
 ###Izuzaem new textowie redaktori nano, gedit, vi
 Laba6
 Privet
+poka
 >>>>>>> SolonenkoDS_two
